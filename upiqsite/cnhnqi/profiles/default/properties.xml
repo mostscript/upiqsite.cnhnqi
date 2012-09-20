@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<site>
+  <property name="title">CNHN QI Project Collaboration Workspaces</property>
+  <property name="description">Project and team workspaces for quality improvement.</property>
+  <property name="email_from_address"
+     type="string">cnhnqi@cnhnqi.childrensnational.org</property>
+  <property name="email_from_name"
+     type="string">CNHN QI QI Workspaces Administrator</property>
+  <property name="default_page" type="string">front-page</property>
+</site>
