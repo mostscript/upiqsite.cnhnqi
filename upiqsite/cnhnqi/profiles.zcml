@@ -14,6 +14,6 @@
         />  
 
     <!-- register FS directory view for skins layer -->
-    <cmf:registerDirectory name="upiqsite_cnhnqcnhnqi" /> 
+    <cmf:registerDirectory name="upiqsite_cnhnqi" /> 
 
 </configure>
